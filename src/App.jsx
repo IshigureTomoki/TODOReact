@@ -6,7 +6,7 @@ export const App = () => {
     <>
       <div className="input-area">
         <input placeholder="TODOを追加" />
-        <button>追加だよだよ</button>
+        <button>追加でっせ</button>
       </div>
       <div className="incomplete-area">
         <p className="title">未完了のTODO</p>
