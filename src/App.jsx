@@ -54,6 +54,7 @@ export const App = () => {
         onClickDelete={onClickDelete}
       />
       <CompleteArea completeTodos={completeTodos} onClickBack={onClickBack} />
+
     </>
   );
 };
